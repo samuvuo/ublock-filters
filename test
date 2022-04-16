@@ -1,0 +1,473 @@
+! -- ----------------------------------------
+! -- GLOBAL ---------------------------------
+! -- ----------------------------------------
+
+##[data-link^="https://www.facebook.com/sharer.php?"]
+##[data-type="facebook-bottom-share"]
+##[onclick^="window.open ('http://www.facebook.com/share.php?"]
+##[onclick^="window.open('http://www.facebook.com/sharer.php?"]
+##[onclick^="window.open('https://facebook.com/sharer/sharer.php?"]
+##[onclick^="window.open('https://www.facebook.com/sharer.php"]
+##[onclick^="window.open('https://www.facebook.com/sharer/sharer.php?"]
+##a[href^="//www.facebook.com/sharer.php?"]
+##a[href^="http://facebook.com/sharer.php?"]
+##a[href^="http://www.facebook.com/share.php"]
+##a[href^="http://www.facebook.com/sharer.php"]
+##a[href^="http://www.facebook.com/sharer/sharer.php"]
+##a[href^="https://facebook.com/dialog/share?"]
+##a[href^="https://facebook.com/share.php?u="]
+##a[href^="https://facebook.com/sharer.php?"]
+##a[href^="https://www.facebook.com/dialog/share?"]
+##a[href^="https://www.facebook.com/share.php?"]
+##a[href^="https://www.facebook.com/sharer.php?"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
+##a[onclick^="popUp=window.open('https://www.facebook.com/sharer/sharer.php?"]
+##a[onclick^="popup('https://www.facebook.com/sharer/"]
+##a[rel="share-on-facebook"]
+##button[onclick^="Javascript:void(window.open('http://www.facebook.com/sharer.php?"]
+##button[onclick^="window.open('https://www.facebook.com/dialog/share?"]
+##div[param^="https://www.facebook.com/sharer/sharer.php?"]
+
+realpython.com##a.badge[href^="https://facebook.com/sharer/sharer.php?"]
+realpython.com##a.badge[href^="mailto:?subject="]
+
+! -- ----------------------------------------
+! -- PER SITE -------------------------------
+! -- ----------------------------------------
+
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##span.coral-count
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##h2.ui-heading:has-text(Uutiskirje):upward(div.box)
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##h2.ui-heading:has-text(Juttuvinkki):upward(div.box)
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##script[src^="https://embed.tapkal.fi"]:upward(div)
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##a.card__link > span.ui-accent:has-text(Näköislehdessä tänään):upward(div.card)
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##a.card__link > span.ui-accent:has-text(Näköislehdessä tänään):upward(div.card)
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##div.grid__column > .ui-heading:has-text(Palvelut)
+aamuposti.fi,helsinginuutiset.fi,ksml.fi,lansi-uusimaa.fi,lansivayla.fi,karkkilantienoo.fi,keski-uusimaa.fi,lappeenrannanuutiset.fi,lopenlehti.fi,loviisansanomat.fi,luoteis-uusimaa.fi,lansi-uusimaa.fi,lansivayla.fi,mantsalanuutiset.fi,nurmijarvenuutiset.fi,pyhtaanlehti.fi,seinajoensanomat.fi,sipoonsanomat.fi,tamperelainen.fi,turkulainen.fi,uusimaa.fi,vantaansanomat.fi,ess.fi,itahame.fi,keski-hame.fi,seutuneloset.fi,uusilahti.fi,esaimaa.fi,ita-savo.fi,juvanlehti.fi,kaakonkulma.fi,kangasniemenlehti.fi,keskilaakso.fi,kouvolansanomat.fi,kymensanomat.fi,luumaenlehti.fi,lansisaimaa.fi,lansi-savo.fi,mikkelinkaupunkilehti.fi,joutsenolehti.fi,pitajanuutiset.fi,puruvesi.net,uutisvuoksi.fi,hankasalmensanomat.fi,ksml.fi,laukaa-konnevesi.fi,sampolehti.fi,sisasuomenlehti.fi,sjl.fi,viispiikkinen.fi,viitasaarenseutu.fi,heinavedenlehti.fi,iisalmensanomat.fi,joroistenlehti.fi,koillis-savo.fi,mattijaliisa.fi,miilu.fi,pieksamaenlehti.fi,pielavesi-keitele.fi,pitajalainen.fi,savonsanomat.fi,sisa-savolehti.fi,soisalonseutu.fi,tollotin.fi,uutis-jousi.fi,viikkosavo.fi,warkaudenlehti.fi##.js-show-comments.button
+
+laakehakupalvelu.apteekkariliitto.fi###map:style(height: 600px !important;)
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###herobox
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###herobox-mini
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.newsletter-anon
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.s-hero
+
+! -- ----------------------------------------------------------
+! -- GOOGLE
+! -- ----------------------------------------------------------
+! Block AMP sites
+! Source: https://www.reddit.com/r/uBlockOrigin/comments/f8ny4r/why_is_this_simple_filter_not_working_to_block_an/
+||google.com/amp/$document
+
+! Hide pinterest restuls in regular Google search
+! Source: https://www.reddit.com/r/uBlockOrigin/comments/f8aqi0/how_can_i_completely_block_pinterest_from_google/
+google.*##.g:has(a[href*=".pinterest."])
+! Hide pinterest results in Google Image search
+google.*##a[href*=".pinterest."]:nth-ancestor(1)
+
+! Sign in with Google -popups on various sites
+! https://old.reddit.com/r/uBlockOrigin/comments/hnek5f/blocking_sign_in_with_google_on_all_websites/
+||id.google.com^
+||accounts.google.com/gsi/*$xhr,script,3p
+
+! Prevent Google from rewriting search result URLs
+! https://old.reddit.com/r/uBlockOrigin/comments/hk8ahn/any_ways_to_prevent_google_from_rewriting_urls/
+! https://old.reddit.com/r/uBlockOrigin/comments/hk8ahn/any_ways_to_prevent_google_from_rewriting_urls/fyj86gm/
+! For Firefox:
+www.google.*##+js(ra, onmousedown, [onmousedown^="return"])
+! For Chromium based browsers:
+www.google.*##+js(ra, ping, [ping^="/url?"])
+! Not needed? Estää Mapsin toiminnan (hiirellä panorointi)
+! google.*##+js(aeld, mousedown)
+
+! Google consent, "before you continue"
+! https://old.reddit.com/r/uBlockOrigin/comments/slvhai/cant_get_rid_of_the_before_you_continue_to_google/
+www.google.*##^script:has-text(consentCookiePayload)
+www.google.*##+js(acis, document.cookie, YES+)
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+
+! Could not access Maps due to this, so had to disable - or should I make an exception rule here?
+!||consent.google.com^
+!||consent.google.fi^
+
+! -- ----------------------------------------------------------
+! -- TWITTER
+! -- ----------------------------------------------------------
+
+twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
+twitter.com##html:style(overflow: auto !important;)
+
+! Sidebar - Oletko uusi Twitterissä?
+twitter.com##[aria-label="Rekisteröidy" i]:upward(1)
+
+! Sidebar - Trending now/Trends for you - Suosittuja aiheita sinulle
+twitter.com##[aria-label$="Aikajana: Suosittua juuri nyt" i]
+
+! Sidebar - Who to follow/You might like - Saattaisit tykätä
+twitter.com##[aria-label="uusia seurattavia" i]:upward(1)
+
+
+! -- ----------------------------------------------------------
+! -- YOUTUBE
+! -- ----------------------------------------------------------
+
+! https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_consent_dialog
+! YT consent
+youtube-nocookie.com,youtube.com##+js(set, ytInitialData.onResponseReceivedEndpoints, undefined)
+
+! YT consent v2
+youtube-nocookie.com,youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+youtube-nocookie.com,youtube.com##+js(json-prune, [].response.overlay.consentBumpV2Renderer topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer overlay.consentBumpV2Renderer response.overlay.consentBumpV2Renderer)
+
+||ytimg.com/yts/swfbin/player-*/endscreen.swf$object-subrequest,domain=youtube.com
+/watch_autoplayrenderer.js$script,domain=www.youtube.com
+/annotations_module.js$script,domain=www.youtube.com
+/endscreen.js$script,domain=www.youtube.com
+
+! Disable thumbnail preview when hovering over a link
+youtube-nocookie.com,youtube.com##+js(aeld, mouseenter, console.warn)
+
+youtube-nocookie.com,youtube.com##span.ytd-badge-supported-renderer.style-scope:has-text(Osta):upward(ytd-badge-supported-renderer)
+youtube-nocookie.com,youtube.com##ytd-browse #items > ytd-grid-video-renderer[is-shorts]
+youtube-nocookie.com,youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style="SHORTS"]:upward(ytd-grid-video-renderer)
+youtube-nocookie.com,youtube.com###title.ytd-reel-shelf-renderer:has-text(Shorts):upward(ytd-item-section-renderer)
+youtube-nocookie.com,youtube.com###title.ytd-reel-shelf-renderer:has-text(Cheers to these cool channels):upward(ytd-item-section-renderer)
+youtube-nocookie.com,youtube.com###title-text > .ytd-shelf-renderer.style-scope.yt-simple-endpoint > .ytd-shelf-renderer.style-scope:has-text(Cheers to these cool channels):upward(ytd-item-section-renderer)
+!youtube-nocookie.com,youtube.com###text.ytd-thumbnail-overlay-time-status-renderer.style-scope:has-text(/\D0./):upward(6)
+!!!!www.youtube.com###text.ytd-thumbnail-overlay-time-status-renderer.style-scope:has-text(/\D0./):upward(ytd-video-renderer)
+
+youtube-nocookie.com,youtube.com##.alerts-wrapper
+youtube-nocookie.com,youtube.com###comments
+youtube-nocookie.com,youtube.com###chat:remove()
+youtube-nocookie.com,youtube.com###merch-shelf
+youtube-nocookie.com,youtube.com###ticket-shelf
+youtube-nocookie.com,youtube.com###comment-teaser
+youtube-nocookie.com,youtube.com###owner > #subscribe-button
+youtube-nocookie.com,youtube.com###sponsor-button
+youtube-nocookie.com,youtube.com###subscribe-button
+youtube-nocookie.com,youtube.com###voice-search-button
+
+youtube-nocookie.com,youtube.com##button.yt-icon-button[aria-label="Jaa"]:upward(ytd-button-renderer)
+youtube-nocookie.com,youtube.com##button.yt-icon-button[aria-label="En tykkää tästä videosta"]:upward(ytd-toggle-button-renderer)
+youtube-nocookie.com,youtube.com##button.yt-icon-button[aria-label="Tallenna soittolistalle"]:upward(ytd-button-renderer)
+youtube-nocookie.com,youtube.com##button.yt-icon-button[aria-label$="henkilöä tykkäävät tästä videosta"]:upward(ytd-toggle-button-renderer)
+youtube-nocookie.com,youtube.com##img.branding-img.iv-click-target[aria-label="Kanavan vesileima"]:upward(button)
+
+! -- ----------------------------------------------------------
+! -- WEBSOCKET
+! -- ----------------------------------------------------------
+
+! TEST AT: https://websocketstest.com/
+!
+! Block all, whithout exceptions:
+! *$websocket
+!
+! Block all except whitelisted domains
+! *$websocket,domain=~speedtest.net|~websocketstest.com
+*$websocket,domain=~speedtest.net|~blitzortung.org|~forum.vivaldi.net|~radionova.fi|~firebaseio.com
+
+! -- ----------------------------------------------------------
+! -- TARGET="BLANK"
+! -- ----------------------------------------------------------
+
+! -- poista target="_blank" linkeistä
+! source: https://www.reddit.com/r/firefox/comments/91tkay/is_there_any_way_to_remove_target_blank_from_all/
+! source: https://github.com/gorhill/uBlock/wiki/Resources-Library#rajs-
+
+apu.fi,archdaily.com,archilovers.com,artnet.com,bikeexif.com,boataround.com,dailydot.com,datascienceparichay.com,debugpoint.com,express.co.uk,geeksforgeeks.org,hotcars.com,iltalehti.fi,inhabitat.com,itsfoss.com,jamesedition.com,kalmistopiiri.fi,keskustelu.suomi24.fi,kotiliesi.fi,linuxbabe.com,maaseuduntulevaisuus.fi,massdevice.com,moottori.fi,motouutiset.fi,mtvuutiset.fi,www.msn.com,omgubuntu.co.uk,onekindesign.com,ostechnix.com,protonmail.com,redhat.com,remodelista.com,paivanlehti.fi,techradar.com,tecmint.com,telsu.fi,theregister.com,tori.fi,quora.com,vaatetusliikeaarons.fi,vanityfair.com,verkkouutiset.fi,vice.com,w3schools.com,webdevtrick.com,yachtingworld.com,zdnet.com##+js(remove-attr.js, target, a)
+
+
+! -- ----------------------------------------------------------
+! -- VIDEO VIDEO VIDEO VIDEO
+! -- ----------------------------------------------------------
+
+! Pitää sallia cookie dialog (ja sallia keksit) jotta Iltalehden videot näkyy - blokattu mm. Easylist
+iltalehti.fi#@#.alma-cmpv2-container
+
+
+! Kelluvan videon tappaminen
+mtvuutiset.fi##+js(rc, katsomo-player-fixed, div, stay)
+mtvuutiset.fi##+js(rc, mtv-player-small, div, stay)
+mtvuutiset.fi##+js(rc, sticky-player-initialized, div, stay)
+mtvuutiset.fi##.katsomo-player-container:style(transform: translate(0px) !important;)
+mtvuutiset.fi##+js(ra, style, div.katsomo-player-container)
+mtvuutiset.fi##+js(aeld, scroll)
+
+areena.yle.fi##div:has(>a>span:has-text(/(Jaa ohjelma)/i))
+areena.yle.fi##.event-banner-container
+areena.yle.fi##.yle-share-buttons
+areena.yle.fi##[class^="LogInOverlay__LogIn"]
+areena.yle.fi##[class^="recommendations__PauseRecommendation"]
+areena.yle.fi##[class^="ShareControls__ShareControlsContainer"]
+areena.yle.fi##[class^="Cards__PauseRecommendationsBackground"]
+areena.yle.fi##[class^="ShareOverlayButton"]
+areena.yle.fi##.feedback-banner
+areena.yle.fi##li.guide-channels__channel:has(>h2>div[aria-label="TV Finland"])
+areena.yle.fi##.yle-header-ad
+areena.yle.fi##.ShareWrapper
+areena.yle.fi##.info.msg:style(background: #1F2224 !important; border-left-color: #2d2f32 !important; )
+areena.yle.fi##.info.msg a:style(color: #2d2f32 !important;)
+
+! -- ----------------------------------------------------------
+! -- FIXINGS
+! -- ----------------------------------------------------------
+
+instagram.com,linkedin.com,reddit.com##body,html:style(overflow:auto !important)
+
+! Jotta upotetut tweetit näkyy
+@@||sp-prod.net^$3p,domain=is.fi
+is.fi#@#div[id*="sp_message_container"]
+
+! -- ----------------------------------------------------------
+! -- LATEST ADDITIONS APPEAR HERE - MOVE ELSEWHERE ------------
+! -- ----------------------------------------------------------
+
+alfatvuutiset.fi##.widget-title > h2:has-text(Advertisement):upward(div.widget)
+areena.yle.fi##.info.msg:style(background: #1F2224 !important; border-left-color: #2d2f32 !important; )
+areena.yle.fi##.info.msg a:style(color: #2d2f32 !important;)
+
+www.iltalehti.fi##:matches-path(/^/telkku/) .condensed.article-container__header-link[href*="luetuimmat"]:upward(.article-container)
+www.iltalehti.fi##:matches-path(/^/telkku/) .article-container__header-link[href*="iltalehti.fi/tv-ja-leffat"]:upward(.article-container)
+www.iltalehti.fi##:matches-path(/^/telkku/) .article-container__header-link[href="/telkku/uutiset"]:upward(.article-container)
+www.iltalehti.fi##:matches-path(/^/telkku/) .recommendation-carousel
+www.iltalehti.fi##:matches-path(/^/telkku/) .footer-feedback-wrapper
+www.iltalehti.fi##.contains-plus.related-articles-within-text.related-articles
+www.iltalehti.fi##.related-articles .related-text-container:has-text(Kaupallinen yhteistyö):upward(.link-container)
+www.iltalehti.fi##img[src="https://assets.ilcdn.fi/4fb0dcf616d0dd81249e0474a2f52003e1624a825b648aaaa4d72adbae7c3c7b.gif"]:upward(a)
+www.iltalehti.fi##a.puffi.newsticker-item > .inline.il-plus-svg-logo:upward(a)
+www.iltalehti.fi##em:has-text(Juttu jatkuu kuvan jälkeen):upward(p.paragraph)
+www.iltalehti.fi##.a-title-font.title > .inline.il-plus-svg-logo:upward(a)
+www.iltalehti.fi##[id^="almad-parade-"]
+www.iltalehti.fi##[id^="almad-mobile-parade-"]
+www.iltalehti.fi##.coral-talk:upward(.card)
+www.iltalehti.fi##.il-footer-social
+www.iltalehti.fi##.article-container > .title-container > .a-title-font.title > .title-text:has-text(Kaupallinen yhteistyö):upward(a)
+www.iltalehti.fi##.nettiauto-react-embed:upward(.card)
+www.iltalehti.fi##.article-bookmark
+www.iltalehti.fi##div.full-article .inline.il-plus-svg-logo:upward(.card)
+www.iltalehti.fi##img[src*="KAUPALLINEN"]:upward(.card)
+www.iltalehti.fi##.card.at-embed-kl:upward(.embed-placeholder)
+www.iltalehti.fi##.card.eo-embed-announcements-container:upward(.embed-placeholder)
+www.iltalehti.fi##.side-column-content > .card > .alennuskoodi-column-embed:upward(.card)
+www.iltalehti.fi##.side-column-content #il-rantapallo-right-column-box:upward(.card):upward(.card)
+www.iltalehti.fi##.side-column-content .newsletter-column-embed.card:upward(.card)
+www.iltalehti.fi##.side-column-content h5.card-heading:has-text(Ajanviete):upward(.card)
+www.iltalehti.fi##.side-column-content .etua-react-embed:upward(.card)
+www.iltalehti.fi##.side-column-content a.nakoislehti:upward(.card)
+www.iltalehti.fi##.side-column-content [href="https://www.punainenristi.fi/lahjoita/"]:upward(.card)
+www.iltalehti.fi##.side-column-content [href="/iltv-paivarinta/"]:upward(.card)
+www.iltalehti.fi##.side-column-content [href="/uutisvihje"]:upward(.card)
+www.iltalehti.fi##.card > a[href="/uutisvihje"]:upward(.card)
+www.iltalehti.fi##.header-alma-container > .alma-links
+www.iltalehti.fi##.header-weather-container
+www.iltalehti.fi###il-newsletter-banner
+www.iltalehti.fi##[href^="https://www.iltalehti.fi/telkku/"]
+www.iltalehti.fi###il-telkku-right-column-box
+www.iltalehti.fi##:matches-path(/^/telkku/) .condensed.article-container__header-link[href*="luetuimmat"]:upward(.article-container)
+www.iltalehti.fi##:matches-path(/^/telkku/) .article-container__header-link[href*="iltalehti.fi/tv-ja-leffat"]:upward(.article-container)
+www.iltalehti.fi##:matches-path(/^/telkku/) .article-container__header-link[href="/telkku/uutiset"]:upward(.article-container)
+www.iltalehti.fi##:matches-path(/^/telkku/) .recommendation-carousel
+www.iltalehti.fi##:matches-path(/^/telkku/) .footer-feedback-wrapper
+
+www.is.fi##a[href^="https://www.unicef.fi/tue-tyotamme/ukraina"]:upward(article)
+www.is.fi##a[href^="https://www.punainenristi.fi/lahjoita/katastrofirahasto/"]:upward(article)
+www.is.fi##a[href^="https://www.kirkonulkomaanapu.fi/lahjoita/ukrainan-sota/"]:upward(article)
+www.is.fi##a[href^="https://www.pelastakaalapset.fi/ajankohtaista/kampanjat/"]:upward(article)
+www.is.fi##a[href^="https://www.fida.info/lahjoita/"]:upward(article)
+www.is.fi##a[href^="https://plan.fi/ukraina"]:upward(article)
+www.is.fi##a[href^="https://unwomen.fi/lahjoitukset/"]:upward(article)
+www.is.fi##a[href^="https://www.worldvision.fi/auta-lapsia-ukrainan-kriisissa"]:upward(article)
+www.is.fi##h2.teaser--m__title>span:has-text(Ukraina tarvitsee apua):upward(article)
+www.is.fi##article.ticker-promo-40 > h2 > span:has-text(Ukraina tarvitsee apuasi):upward(a)
+www.is.fi##iframe[src^="https://kampanjat.is.fi/"]
+
+www.etuovi.com##[class*="Spotlight__spotlight__"]
+
+www.karjalainen.fi##legend:has-text(Mainos alkaa):upward(.card-container)
+
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.banner
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.listing > .banner:upward(1)
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.cleafix_nett.location_info > .listing_contact_btn
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.vif_share_btn
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.sticky_header_left .share_ad_dropdown:upward(div)
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.sticky_header_left .add_to_comp_btn
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.sticky_header_left .add_to_fav_btn
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.sticky_header_left .openConversationFrom
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.sticky_header_left .openContactRequestForm
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###ake_Ad
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###id_adInfo  .rk_heading:has-text(Rekisteritiedot):upward(1)
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###id_adInfo > #rekkari
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###financeCalculators
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###service_list_promo
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.contact_req_button
+
+nettimoto.com##.huge-banner
+nettimoto.com##.list-card__location-info_btn
+nettimoto.com##.details-tool-bar__link.details-tool-bar__similar-search
+nettimoto.com##.details-tool-bar__link.page-features__share
+nettimoto.com##.details-tool-bar__link.page-features__show-favorites.addToFavouriteFromVif
+nettimoto.com##.details-tool-bar__link.page-features__show-compare.addToCompareFromVif
+nettimoto.com##.inHouseBanner
+
+mtvuutiset.fi##.component-leadfamly.component
+
+||vg.is.fi/*-is-etusivu*/$subdocument
+||vg.is.fi/hs-promo-is/$subdocument
+is.fi##aside h2:has-text(Alennuskoodit):upward(article)
+is.fi##aside h2:has-text(Lähetä uutiskuva tai -video):upward(article)
+is.fi##aside div.mb-8:has-text(Lehti luettavissa näköislehtenä):upward(2)
+is.fi##a[href*="utm_source=www.is.fi"]:upward(article)
+is.fi##h2.list-heading-10:has-text(Kommentit):upward(article)
+is.fi##.article-actions--top
+is.fi##.article-actions
+
+telsu.fi##div.ch.cmore2
+telsu.fi##a[href^="/clk"]
+telsu.fi##.share
+telsu.fi##[href="https://www.facebook.com/telsu.fi"]
+telsu.fi##a.btn:has-text(Traileri)
+telsu.fi###hat
+telsu.fi###pb_top
+telsu.fi###pb_bottom
+
+yle.fi##button[aria-label="Jaa artikkeli"]
+yle.fi##button[aria-label="Jaa"]:upward(.share-container)
+
+www.wired.com##.social-icons--share
+www.imdb.com##.ipc-rating-prompt
+old.reddit.com##.commentsignupbar.infobar
+www.foreca.fi##.tickerwrap
+www.foreca.fi###share
+www.iltalehti.fi##.article-body > [href="/parassaa/"]
+
+flightradar24.com##.airport-info-wrapper:style(top:50px !important;)
+flightradar24.com##.flight-info-wrapper:style(top:50px !important;)
+flightradar24.com###storeBadges
+www.flightradar24.com##.applink-container
+www.flightradar24.com##.visible.with-animation.overlay-upgrade-button
+www.flightradar24.com##span.widgets-tooltip-container:has-text(NEW. Bookmarks widget now available):upward(div.fr-tooltip)
+
+marinetraffic.com##div[style^="position: relative; width: 100%; margin-top: 15px; margin-bottom: 15px; height: 90px;"]
+www.marinetraffic.com##.mt-desktop-mode.upper.row > .hidden-print.vertical-offset-5
+www.marinetraffic.com###skyscraper_container_front:upward(div)
+www.marinetraffic.com##.react-draggable.infowin-tall.infowindowContainer.col-lg-5.col-md-6.col-xs-7.in.fade:style(touch-action: none; color: white; position: absolute; left: 0px; top: 0px; z-index: 99; max-width: 500px; transform: translate(46px, 48px) !important;)
+
+www.vesselfinder.com##.ad-right-m
+www.vesselfinder.com##.map-ad-b
+www.vesselfinder.com##.map-container:style(height: 100vh !important;)
+www.vesselfinder.com##.mygrid3map:style(grid-template-rows: 100vh auto !important;)
+www.vesselfinder.com##.mygrid3map:style(grid-template-columns: 370px 1fr 0px !important;)
+
+forums.theregister.com###comment-form
+forums.theregister.com##.adun
+
+www.iltalehti.fi##.article-sponsored:upward(a)
+www.telsu.fi##.dets.pop a[href^="//www.suomi24.fi/"]
+www.theregister.com##.sharing_widget_story_desktop
+www.google.com##div[jscontroller="U835zd"]
+yle.fi##aside[aria-label^="Sääennuste"]
+yle.fi##p.link-accent:has-text(Lähetä uutisvinkki):upward(a)
+www.is.fi##article.bg-negative > a[href="https://www.is.fi/auta-ukrainaa"]:upward(div)
+
+www.imdb.com##.ipc-icon-button[aria-label="Edit tags"]
+www.imdb.com##.ipc-icon-button[aria-label="Report image"]
+www.imdb.com##section[data-testid="SidebarPolls"]
+www.imdb.com##section[data-testid="DynamicFeature_UserLists"]
+www.imdb.com##a#ProUpsellLink:upward(li)
+arstechnica.com###story-recommendations
+www.nytimes.com##div[data-testid="share-tools"]
+www.nytimes.com##div[data-testid="inline-message"]
+www.nytimes.com###NYT_ABOVE_MAIN_CONTENT_REGION
+www.nytimes.com##span:has-text(Sign up for the New York):upward(div.css-n3lkv8)
+
+www.nettiauto.com###share_box_new
+www.nettiauto.com###almad-post-content-1:upward(.dfpBoxBottom)
+
+||9to5linux.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js$script
+9to5linux.com##h4.widget-title:has-text(Follow Us):upward(section)
+www.ilmatieteenlaitos.fi##.rns-shares
+www.iltalehti.fi##.mixed-embed-header-text:has-text(Juuri nyt muualla Almassa):upward(div.embed-placeholder)
+www.is.fi##span:has-text(Lataa IS Supersää):upward(aside)
+
+www.vauva.fi##.clearfix.bottom > .region > .right:upward(div.region)
+www.vauva.fi##form#comment-form
+www.vauva.fi##a.sanoma-button.add
+www.vauva.fi##.flag-outer-save.flag-outer
+www.vauva.fi##.pane-title > [href="https://alennuskoodi.is.fi/"]:upward(.panel-pane)
+www.vauva.fi##.rate-btn.rate-button
+www.iltalehti.fi##.related-articles.contains-plus .inline.il-plus-svg-logo:upward(a)
+
+www.boatsnews.com###sticky-sidebar > div.p
+www.boatsnews.com###sticky-sidebar .titre:has-text(The Boatsnews.com newsletter):upward(1)
+www.boatsnews.com##.zone-habillage #centrale:style(margin: 10px auto 0 !important)
+www.boatsnews.com##a.habillage
+www.boatsnews.com##.fixed:style(position:relative !important;)
+yle.fi##svg[aria-label="Kommentit aiheesta"]:upward(p)
+issuu.com##section[aria-label="Advert"]
+issuu.com##p[class^="ProductParagraph"]:has-text(Advertisement):upward(div)
+issuu.com##div#DocPage_Primary__wideLeaderBoard:upward(div)
+issuu.com###ad-primis-normal:upward(2)
+issuu.com##.brXshZ:style(height: 700px !important;)
+www.tori.fi###panorama_top
+||autot.tori.fi/embed/generalist-carousel$subdocument
+||autot.tori.fi/embed/fallback-car-grid$subdocument
+www.tori.fi###campaign_middle
+www.tori.fi###panorama_bottom
+www.tori.fi##[id^="banner_panorama_"]
+www.tori.fi##div#banner_box
+www.tori.fi###tori_paketti
+www.tori.fi##div.js-xt-apn-fallback [href="https://autot.tori.fi"]:upward(.js-xt-apn-fallback)
+www.tokmanni.fi###product-recommendations
+www.is.fi##li .article-body:has-text(/^Lue lisää/):upward(li):style(background-color: #f2f4f8; padding: 6px !important;)
+www.is.fi##p.article-body > span:has-text(/^Lue lisää/):upward(p):style(background-color: #f2f4f8; padding: 6px !important;margin: 10px 14px !important;)
+www.aamulehti.fi##p.article-body > span.article-strong:has-text(Lue lisää):upward(p):style(background-color: #EEF0F2; padding: 6px !important;margin: 10px 14px !important;)
+
+yle.fi##p.yle__article__paragraph > strong:has-text(Lue lisää:):upward(p):style(background-color: #f2f4f8; padding: 6px !important;)
+
+keskustelu.suomi24.fi##[class*="AdWrapper"]
+keskustelu.suomi24.fi##[class^="FixedResponseBar__Container"]
+keskustelu.suomi24.fi##[class^="RightSidePanel__AdContainer"]
+keskustelu.suomi24.fi##div[class^="ViihdeRSSNews"]
+keskustelu.suomi24.fi##div[class^="StaraRSSNews"]
+keskustelu.suomi24.fi##[class^="RightSidePanel__StartThreadBox"]
+keskustelu.suomi24.fi##form[class^="CommentFormSmall"]
+keskustelu.suomi24.fi##button[class^="ReplyToThreadLargeButton"]
+keskustelu.suomi24.fi##div[class^="NewThreadBox__Wrapper"]
+yle.fi##button[class^="ShareButtonsstyled"]:upward(div)
+www.is.fi##h3.list-item-title > span:has-text(Kaupallinen yhteistyö):upward(a)
+
+iijokiseutu.fi,kaleva.fi,koillissanomat.fi,lapinkansa.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi###paraati-ad-grid
+yle.fi##.kaltura-player-container:style(outline-color: red !important;)
+www.apu.fi##[class^="ad__component"]
+www.youtube.com##span#title:has-text(Muut katselivat myös näitä):upward(.ytd-item-section-renderer)
+www.youtube.com###title:has-text(Myös näitä haetaan):upward(.ytd-item-section-renderer)
+www.iltalehti.fi##.recommendation div.title:has-text(Kaupallinen yhteistyö):upward(.recommendation)
+www.youtube.com###title-text > #title:has-text(Hae elokuvia, joissa on mukana):upward(.ytd-item-section-renderer)
+www.archdaily.com##.afd-post-actions
+www.archdaily.com##.streamPost-bookmark
+www.archdaily.com##a.afd-btn[data-message="Save image"]
+www.jetphotos.com##[id^="showphotos_ad"]
+www.aamulehti.fi##.article-actions
+www.aamulehti.fi##button[aria-label="Tallenna artikkeli"]
+yle.fi###yle-comments-plugin
+www.ampparit.com##.ad-container
+www.iltalehti.fi##div.related-articles-within-text.related-articles:style(background-color: #f2f4f8 !important;)
+!twitter.com##div[aria-valuemin="0"][role=progressbar]
+twitter.com##span:has-text(Näytä lisää vastauksia):upward(3):style(background-color: #eff3f4 !important;)
+
+tivi.fi###almad-parade-wallpaper:upward(3)
+tivi.fi###almad-parade-1:upward(3)
+www.tivi.fi###almad-panorama-1:upward(.lazyload-wrapper):upward(div)
+www.tekniikkatalous.fi,www.tivi.fi##.kBsRFB
+www.tekniikkatalous.fi,www.tivi.fi##.ad
+www.tekniikkatalous.fi,www.tivi.fi##div[width="300"]:has(>.lazyload-wrapper>.ad)
+www.tekniikkatalous.fi,www.tivi.fi##div[width="468"]:has(>.lazyload-wrapper>.ad)
+www.iltalehti.fi##.hotline-embed
+www.iltalehti.fi##.side-column-content [id^="alma-content-router-slot"]:upward(.card)
+
+linuxinsider.com#@#.share-new
+www.linuxtoday.com##div.td_module_wrap:style(margin-bottom: 4px !important;)
+www.linuxtoday.com##.td-module-meta-info:style(padding: 0 !important;)
+www.linuxtoday.com##.td-post-category:style(padding: 0 !important;)
+www.imdb.com##h3:has-text(Editorial lists):upward(section.ipc-page-section)
+www.imdb.com##.ipc-slate-card:has-text(Family-Friendly Movies and Shows):upward(section)
+www.reddit.com##.commentsignupbar.infobar
+
