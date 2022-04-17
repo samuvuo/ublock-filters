@@ -475,4 +475,8 @@ www.linuxtoday.com##.td-post-category:style(padding: 0 !important;)
 www.imdb.com##h3:has-text(Editorial lists):upward(section.ipc-page-section)
 www.imdb.com##.ipc-slate-card:has-text(Family-Friendly Movies and Shows):upward(section)
 www.reddit.com##.commentsignupbar.infobar
-
+www.linuxinsider.com##.advert
+www.cyberciti.biz##.tips_top_slot_1
+www.cyberciti.biz##.post_content > div[data-amp-original-style^="text-align: center;"]:has(> amp-ad)
+www.suomisanakirja.fi##.qs:style(outline: none !important;)
+www.iltalehti.fi##.recommendations .inline.il-plus-svg-logo:upward(div.recommendation)
