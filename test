@@ -288,6 +288,7 @@ www.etuovi.com##[class*="Spotlight__spotlight__"]
 
 www.karjalainen.fi##legend:has-text(Mainos alkaa):upward(.card-container)
 
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.ad
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.banner
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.listing > .banner:upward(1)
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.cleafix_nett.location_info > .listing_contact_btn
@@ -303,8 +304,9 @@ nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,ne
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###financeCalculators
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###service_list_promo
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.contact_req_button
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com###huge_banner
+nettiauto.com,nettikaravaani.com,nettikone.com,nettimoto.com,nettivaraosa.com,nettivene.com##.huge-banner
 
-nettimoto.com##.huge-banner
 nettimoto.com##.list-card__location-info_btn
 nettimoto.com##.details-tool-bar__link.details-tool-bar__similar-search
 nettimoto.com##.details-tool-bar__link.page-features__share
@@ -421,8 +423,10 @@ www.tori.fi##div#banner_box
 www.tori.fi###tori_paketti
 www.tori.fi##div.js-xt-apn-fallback [href="https://autot.tori.fi"]:upward(.js-xt-apn-fallback)
 www.tokmanni.fi###product-recommendations
-www.is.fi##li .article-body:has-text(/^Lue lisää/):upward(li):style(background-color: #f2f4f8; padding: 6px !important;)
-www.is.fi##p.article-body > span:has-text(/^Lue lisää/):upward(p):style(background-color: #f2f4f8; padding: 6px !important;margin: 10px 14px !important;)
+
+www.is.fi##section.article-body > ul.article-unordered-list > li > p.article-body > span:has-text(Lue lisää):upward(li):style(background-color: #f2f4f8; padding:12px !important; )
+www.is.fi##section.article-body > p.article-body > span:has-text(Lue lisää):upward(p):style(background-color: #f2f4f8; padding:12px !important; margin: 10px 14px !important;)
+
 www.aamulehti.fi##p.article-body > span.article-strong:has-text(Lue lisää):upward(p):style(background-color: #EEF0F2; padding: 6px !important;margin: 10px 14px !important;)
 
 yle.fi##p.yle__article__paragraph > strong:has-text(Lue lisää:):upward(p):style(background-color: #f2f4f8; padding: 6px !important;)
@@ -480,3 +484,7 @@ www.cyberciti.biz##.tips_top_slot_1
 www.cyberciti.biz##.post_content > div[data-amp-original-style^="text-align: center;"]:has(> amp-ad)
 www.suomisanakirja.fi##.qs:style(outline: none !important;)
 www.iltalehti.fi##.recommendations .inline.il-plus-svg-logo:upward(div.recommendation)
+iltalehti.fi##.article-share
+www.imdb.com##.ab_embeddable:upward(.article)
+www.wired.com##.newsletter-subscribe-form
+www.nettivaraosa.com##.dfpBoxBottom
