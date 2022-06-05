@@ -489,10 +489,10 @@ www.imdb.com##.ab_embeddable:upward(.article)
 www.wired.com##.newsletter-subscribe-form
 www.nettivaraosa.com##.dfpBoxBottom
 
-www.telsu.fi##a[href$="lk?ev"]
-www.telsu.fi##[id$="_pot"]
-www.telsu.fi##a[href^="/ccclk"]
-www.telsu.fi##body > div.dets.pop > div.dp
-www.telsu.fi##a[href^="/dlk"]
+telsu.fi##a[href$="lk?ev"]
+telsu.fi##[id$="_pot"]
+telsu.fi##a[href^="/ccclk"]
+telsu.fi##body > div.dets.pop > div.dp
+telsu.fi##a[href^="/dlk"]
 ! CMore
-www.telsu.fi##div.ch > a[href="/dlk?cmo"]:upward(div.ch)
+telsu.fi##div.ch > a[href="/dlk?cmo"]:upward(div.ch)
