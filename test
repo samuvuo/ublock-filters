@@ -1,7 +1,7 @@
 ! Title: Samuvuo test filters
 ! Description: Testing uBlock Origin filters
 ! Expires: 2 days
-! Last modified: Sat, 16 Apr 2022 07:05:04 +0000
+! Last modified: Sat, 12 Jun 2022 07:05:04 +0000
 
 ! -- ----------------------------------------
 ! -- GLOBAL ---------------------------------
@@ -494,5 +494,7 @@ telsu.fi##[id$="_pot"]
 telsu.fi##a[href^="/ccclk"]
 telsu.fi##body > div.dets.pop > div.dp
 telsu.fi##a[href^="/dlk"]
+
 ! CMore
-telsu.fi##div.ch > a[href="/dlk?cmo"]:upward(div.ch)
+! telsu.fi##div.ch > a[href="/dlk?cmo"]:upward(div.ch)
+telsu.fi##div.ch:has(>a[href="/dlk?cmo"])
